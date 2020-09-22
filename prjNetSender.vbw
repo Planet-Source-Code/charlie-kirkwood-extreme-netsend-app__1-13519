@@ -1,0 +1,13 @@
+modNetServer = 176, 176, 691, 578, C
+frmAbout = 110, 110, 625, 512, C, 44, 44, 559, 509, C
+modCurrentSystemInfo = 88, 88, 790, 538, C
+modThisApp = 22, 22, 724, 472, C
+frmNetsender = 86, 149, 788, 599, , -3, 30, 699, 637, C
+modTab = 110, 110, 812, 560, C
+clsFs = 198, 198, 900, 648, C
+frmScrollingSplashScreen = 44, 44, 746, 494, C, 66, 66, 768, 516, C
+modScrollingSplashScreen = 154, 154, 856, 604, C
+frmPleaseWait = 44, 44, 746, 494, C, 66, 66, 768, 516, C
+modEffects = 66, 66, 768, 516, C
+clsHourglass = 88, 88, 790, 538, C
+modForms = 88, 88, 790, 538, C
